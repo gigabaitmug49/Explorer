@@ -198,3 +198,6 @@ This repository serves as the official landing page for Explorer++. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Explorer++ today!**
+
+---
+**Last updated:** 2026-11-08 22:38:51 UTC

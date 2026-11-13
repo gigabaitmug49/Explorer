@@ -200,4 +200,4 @@ This repository serves as the official landing page for Explorer++. The software
 **Get the most recent version of Explorer++ today!**
 
 ---
-**Last updated:** 2026-11-13 09:02:25 UTC
+**Last updated:** 2026-11-13 17:28:54 UTC
